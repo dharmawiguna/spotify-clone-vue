@@ -1,0 +1,73 @@
+{
+  "name": "Beautiful Blur",
+  "artist": "Lany",
+  "albumCover": "/images/albumCovers/beautiful-blur.jpeg",
+  "releaseYear": "2024",
+  "tracks": [
+    {
+      "id": 1,
+      "name": "XXL",
+      "path": "/songs/XXL.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Out Of My League",
+      "path": "/songs/Out Of My League.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Sugar & Cinnamon",
+      "path": "/songs/Sugar & Cinnamon.mp3"
+    },
+    {
+      "id": 4,
+      "name": "I Pray",
+      "path": "/songs/I Pray.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Home Is Where The Hurt Is",
+      "path": "/songs/Home Is Where The Hurt Is.mp3"
+    },
+    {
+      "id": 6,
+      "name": "It Even Rains In LA",
+      "path": "/songs/It Even Rains In LA.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Heartbreak Can wait",
+      "path": "/songs/Heartbreak Can Wait.mp3"
+    },
+    {
+      "id": 8,
+      "name": "(Saturday Night) 3:22 A.M.",
+      "path": "/songs/(Saturday Night)3_22 A.M..mp3"
+    },
+    {
+      "id": 9,
+      "name": "Love At First Fight",
+      "path": "/songs/Love At First Fight.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Congrats",
+      "path": "/songs/Congrats.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Cause You Have To",
+      "path": "/songs/Cause You Have To.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Alonica",
+      "path": "/songs/Alonica.mp3"
+    },
+    {
+      "id": 13,
+      "name": "No",
+      "path": "/songs/No.mp3"
+    }
+  ]
+}
